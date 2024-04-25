@@ -1,0 +1,17 @@
+.img {
+    background-color: #669bbc;
+    height: 30px;
+}
+
+.art {
+    background-color: #7209b7;
+}
+.foot {
+    background-color: #90a955;
+}
+
+@media (min-width: 768px) {
+    .text-md-lowercase {
+      text-transform: lowercase;
+    }
+  }
